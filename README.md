@@ -13,20 +13,21 @@ MyREAD is a simple Book Tracking App, allows you to create a bookshelf that sele
 [udacity]: https://udacity.com
 [starter template]: https://github.com/udacity/nd0191-c1-myreads/
 
-## Installation & Usage
 
 
 ## Prerequisites
 Your machine must have the following installed on it:
 - [Node/NPM](https://nodejs.org/en/download/) 
 
+
+
+## Instructions
+
 Clone the project from Github.
 
 ```bash
 git clone https://github.com/mohamedshipl/myread-mohamedshipl
 ```
-
-## Instructions
 
 ### 1. Install Dependencies
 After Cloning the project, head inside the project folder and run
